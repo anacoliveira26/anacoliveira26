@@ -24,21 +24,21 @@ acabei tendo interesse na área de UX/UI Design!
   <img src="https://img.shields.io/github/followers/anacoliveira26?label=Seguir&style=for-the-badge&logo=github&color=181717" alt="Seguir">
 </a>
 
+<!--IMAGEM -->
+<img src="https://github.com/anacoliveira26/anacoliveira26/blob/main/assets/totorogif.gif" width="100" alt="Totoro">
+
+<img src="https://github.com/anacoliveira26/anacoliveira26/blob/main/assets/cleffasgif.gif" width="200" align="right">
+
 </td>
 
 <td width="40%" align="center" valign="middle">
 
 <!--IMAGEM -->
-<img src="https://github.com/anacoliveira26/anacoliveira26/blob/main/assets/clefablegif.gif?raw=true" width="200" alt="Clefable">
+<img src="https://github.com/anacoliveira26/anacoliveira26/blob/main/assets/clefablegif.gif?raw=true" width="400" alt="Clefable">
 </td>
 </tr>
 </table>
 
-<!--GIF AO LADO DOS BOTÕES -->
-
-<br>
-
-<!-- IMAGEM RETANGULAR GRANDE: OCUPA A LARGURA DO README -->
 
 <br>
 
@@ -52,6 +52,11 @@ acabei tendo interesse na área de UX/UI Design!
 - Canva
 </pre>
 ---
+<p align="center">
+<img src="https://github.com/anacoliveira26/anacoliveira26/blob/main/assets/pokemongif.gif" >
+</p>
+<br>
+
 
 
 

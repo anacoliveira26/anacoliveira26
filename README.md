@@ -29,7 +29,7 @@ acabei tendo interesse na área de UX/UI Design!
 <td width="40%" align="center" valign="middle">
 
 <!--IMAGEM -->
-
+<img src="https://github.com/anacoliveira26/anacoliveira26/blob/main/assets/clefablegif.gif?raw=true" width="200" alt="Clefable">
 </td>
 </tr>
 </table>

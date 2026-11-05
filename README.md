@@ -3,7 +3,7 @@
 <tr>
 <td width="60%" valign="middle">
 
-<strong>Olá! Meu nome é *Ana Carolina!*</strong>
+### <strong>Olá! Meu nome é *Ana Carolina!*</strong>
 
 Estou buscando aprender coisas novas e aprimorar meus conhecimentos por meio deste perfil!
 
@@ -47,13 +47,13 @@ acabei tendo interesse na área de UX/UI Design!
 ### 🛠️ Tecnologias e Ferramentas
 <pre>
 - VSCode
-- Embarcadero Dec-C++
+- Embarcadero Dev-C++
 - Figma
 - Canva
 </pre>
 ---
 <p align="center">
-<img src="https://github.com/anacoliveira26/anacoliveira26/blob/main/assets/pokemongif.gif" >
+<img src="https://github.com/anacoliveira26/anacoliveira26/blob/main/assets/pokemongif.gif" width="400" >
 </p>
 <br>
 

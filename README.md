@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&pause=1000&color=B9F78F&repeat=false&width=435&lines=Hello!+Welcome+to+My+Profile!!+%C2%B0%E2%9D%80%E2%8B%86.%E0%B3%83%E0%BF%94*%3A%EF%BD%A5" alt="Typing SVG" width="70%"/></a>
 <table>
 <tr>
-<td width="60%" valign="middle">
+<td width="50%" valign="middle">
 
 ### <strong>Olá! Meu nome é *Ana Carolina!*</strong>
 
@@ -25,7 +25,7 @@ acabei tendo interesse na área de UX/UI Design!
 </a>
 
 <!--IMAGEM -->
-<img src="https://github.com/anacoliveira26/anacoliveira26/blob/main/assets/totorogif.gif" width="100" alt="Totoro">
+<img src="https://github.com/anacoliveira26/anacoliveira26/blob/main/assets/totorogif.gif" width="90" alt="Totoro">
 
 <img src="https://github.com/anacoliveira26/anacoliveira26/blob/main/assets/cleffasgif.gif" width="200" align="right">
 

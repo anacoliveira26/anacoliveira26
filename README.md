@@ -92,6 +92,8 @@ acabei tendo interesse na área de UX/UI!
   src="https://www.readmecodegen.com/api/social-icon?name=coreldraw&link="
 />
 
+<br clear="all">
+
 ---
 
 <p align="center">
